@@ -35,13 +35,13 @@ The goal is to extract a structured **outline** from a PDF by identifying:
 
 ## 📁 Project Structure
 
-```adobe-pdf-outline-extractor/```
-```├── main.py # Main script to extract outline```
-```├── requirements.txt # Python dependencies```
-```├── Dockerfile # Docker setup (offline + CPU)```
-```├── README.md # This file```
-```├── input/ # Input folder to place your PDFs```
-```└── output/ # Output folder where JSON results are stored```
+adobe-pdf-outline-extractor/
+├── main.py # Main script to extract outline
+├── requirements.txt # Python dependencies
+├── Dockerfile # Docker setup (offline + CPU)
+├── README.md # This file
+├── input/ # Input folder to place your PDFs
+└── output/ # Output folder where JSON results are stored
 
 
 ---
